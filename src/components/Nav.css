@@ -1,0 +1,10 @@
+.img{
+    width: 100%;
+    padding: 1rem;
+    z-index: 1;
+    position: fixed;
+
+}
+.nav-black{
+    background-color: black;
+}
